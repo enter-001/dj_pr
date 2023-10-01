@@ -1,3 +1,3 @@
 name: My Site
 theme: minima
-exclude: [vendor]
+exclude: vendor
